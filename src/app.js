@@ -15,6 +15,7 @@
  * console.log(total); 
  */
 
+
 function getScore(scores) {
   let totalScore = 0;
   for (let score of Object.values(scores)) {
