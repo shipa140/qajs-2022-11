@@ -13,6 +13,8 @@
  * 
  * const total = getScore(scores);
  * console.log(total); 
+ * 
+ * 
  */
 
 
